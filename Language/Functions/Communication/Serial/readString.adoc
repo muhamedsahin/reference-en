@@ -46,18 +46,18 @@ A `String` read from the serial buffer
 === See also
 
 [role="language"]
-* #LANGUAGE# link:../../serial[Serial]
-* #LANGUAGE# link:../begin[begin()]
-* #LANGUAGE# link:../end[end()]
-* #LANGUAGE# link:../available[available()]
-* #LANGUAGE# link:../read[read()]
-* #LANGUAGE# link:../peek[peek()]
-* #LANGUAGE# link:../flush[flush()]
-* #LANGUAGE# link:../print[print()]
-* #LANGUAGE# link:../println[println()]
-* #LANGUAGE# link:../write[write()]
-* #LANGUAGE# link:../serialevent[SerialEvent()]
-* #LANGUAGE# link:../parsefloat[parseFloat()]
+* #Language# link:../../serial[Serial]
+* #Language# link:../begin[begin()]
+* #Language# link:../end[end()]
+* #Language# link:../available[available()]
+* #Language# link:../read[read()]
+* #Language# link:../peek[peek()]
+* #Language# link:../flush[flush()]
+* #Language# link:../print[print()]
+* #Language# link:../println[println()]
+* #Language# link:../write[write()]
+* #Language# link:../serialevent[SerialEvent()]
+* #Language# link:../parsefloat[parseFloat()]
 
 --
 // SEE ALSO SECTION ENDS
